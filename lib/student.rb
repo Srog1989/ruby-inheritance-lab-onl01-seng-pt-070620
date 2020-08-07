@@ -6,5 +6,6 @@ def initialize
 end
 
 def learn 
+  @knowledge << "knowledge"
 end
 end
